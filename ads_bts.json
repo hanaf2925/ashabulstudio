@@ -1,0 +1,39 @@
+{
+  "username": "kbrigmanlean83",
+  "new_username": "nhali1233/stb",
+  "section_mode": true,
+  "album": [
+    "bts", "jungkook", "suga", "rm", "v", "jimin", "jin", "jhope"
+  ],
+  "init_jumlah_photo": 250,
+  "pub_id": "pub-6556970222421567",
+  "app_id": "ca-app-pub-6556970222421567~1107679252",
+  "admob_banner_id": "ca-app-pub-6556970222421567/5961578350",
+  "admob_interstitial_id": "ca-app-pub-6556970222421567/3335415013",
+  "admob_native_id": "ca-app-pub-6556970222421567/9709251676",
+  "admob_rewarded_id": "",
+  "admob_rewarded_interstitial_id": "",
+
+  "admob_hpk_1": "fashion",
+  "admob_hpk_2": "jenius",
+  "admob_hpk_3": "kpop",
+  "admob_hpk_4": "telkomsel",
+  "admob_hpk_5": "bank jago",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "startapp_app_id": "",
+  
+  "interstitial_inverval": 4,
+
+  "list_ads": [
+      "ADMOB",
+      "UNITY
+    ],
+
+  "unity_id": "4212729",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android"
+}
