@@ -1,0 +1,39 @@
+{
+  "username": "kbrigmanlean83",
+  "new_username": "nhali1233/stb",
+  "section_mode": true,
+  "album": [
+    "v"
+  ],
+  "init_jumlah_photo": 250,
+  "pub_id": "pub-6556970222421567",
+  "app_id": "ca-app-pub-6556970222421567~5195823454",
+  "admob_banner_id": "ca-app-pub-6556970222421567/8909329412",
+  "admob_interstitial_id": "ca-app-pub-6556970222421567/7596247743",
+  "admob_native_id": "ca-app-pub-6556970222421567/2343921064",
+  "admob_rewarded_id": "",
+  "admob_rewarded_interstitial_id": "",
+
+  "admob_hpk_1": "fashion",
+  "admob_hpk_2": "bts",
+  "admob_hpk_3": "kpop",
+  "admob_hpk_4": "insurance",
+  "admob_hpk_5": "plastic surgery",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "startapp_app_id": "",
+  
+  "interstitial_inverval": 4,
+
+  "list_ads": [
+      "ADMOB",
+      "UNITY"
+    ],
+
+  "unity_id": "4213129",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android"
+}
