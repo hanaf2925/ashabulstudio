@@ -5,7 +5,7 @@
   "album": [
     "jungkook"
   ],
-  "init_jumlah_photo": 250,
+  "init_jumlah_photo": 300,
   "pub_id": "pub-6556970222421567",
   "app_id": "ca-app-pub-6556970222421567~2761231805",
   "admob_banner_id": "ca-app-pub-6556970222421567/9292472793",
@@ -14,11 +14,11 @@
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
 
-  "admob_hpk_1": "fashion",
-  "admob_hpk_2": "bts",
+  "admob_hpk_1": "bank jago",
+  "admob_hpk_2": "telkomsel",
   "admob_hpk_3": "kpop",
   "admob_hpk_4": "insurance",
-  "admob_hpk_5": "plastic surgery",
+  "admob_hpk_5": "jenius",
 
   "fan_banner_id": "",
   "fan_interstitial_id": "",
@@ -26,7 +26,7 @@
 
   "startapp_app_id": "",
   
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 5,
 
   "list_ads": [
       "ADMOB",
